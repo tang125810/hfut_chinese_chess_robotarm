@@ -1,0 +1,290 @@
+[
+    {
+        "index": 0,
+        "name_CN": "卒",
+        "name_EN": "Black_Pawn",
+        "classsify_id": 0,
+        "color": "Black",
+        "position_abstruct": [0, 3],
+        "position_physical": [50, 290]
+    },
+    {
+        "index": 1,
+        "name_CN": "卒",
+        "name_EN": "Black_Pawn",
+        "classsify_id": 0,
+        "color": "Black",
+        "position_abstruct": [2, 3],
+        "position_physical": [210, 290]
+    },
+    {
+        "index": 2,
+        "name_CN": "卒",
+        "name_EN": "Black_Pawn",
+        "classsify_id": 0,
+        "color": "Black",
+        "position_abstruct": [4, 3],
+        "position_physical": [370, 290]
+    },
+    {
+        "index": 3,
+        "name_CN": "卒",
+        "name_EN": "Black_Pawn",
+        "classsify_id": 0,
+        "color": "Black",
+        "position_abstruct": [6, 3],
+        "position_physical": [530, 290]
+    },
+    {
+        "index": 4,
+        "name_CN": "卒",
+        "name_EN": "Black_Pawn",
+        "classsify_id": 0,
+        "color": "Black",
+        "position_abstruct": [8, 3],
+        "position_physical": [690, 290]
+    },
+    {
+        "index": 5,
+        "name_CN": "炮",
+        "name_EN": "Black_Cannon",
+        "classsify_id": 1,
+        "color": "Black",
+        "position_abstruct": [1, 2],
+        "position_physical": [130, 210]
+    },
+    {
+        "index": 6,
+        "name_CN": "炮",
+        "name_EN": "Black_Cannon",
+        "classsify_id": 1,
+        "color": "Black",
+        "position_abstruct": [7, 2],
+        "position_physical": [610, 210]
+    },
+    {
+        "index": 7,
+        "name_CN": "车",
+        "name_EN": "Black_Rook",
+        "classsify_id": 2,
+        "color": "Black",
+        "position_abstruct": [0, 0],
+        "position_physical": [50, 50]
+    },
+    {
+        "index": 8,
+        "name_CN": "车",
+        "name_EN": "Black_Rook",
+        "classsify_id": 2,
+        "color": "Black",
+        "position_abstruct": [8, 0],
+        "position_physical": [690, 50]
+    },
+    {
+        "index": 9,
+        "name_CN": "马",
+        "name_EN": "Black_Horse",
+        "classsify_id": 3,
+        "color": "Black",
+        "position_abstruct": [1, 0],
+        "position_physical": [130, 50]
+    },
+    {
+        "index": 10,
+        "name_CN": "马",
+        "name_EN": "Black_Horse",
+        "classsify_id": 3,
+        "color": "Black",
+        "position_abstruct": [7, 0],
+        "position_physical": [610, 50]
+    },
+    {
+        "index": 11,
+        "name_CN": "象",
+        "name_EN": "Black_Elephant",
+        "classsify_id": 4,
+        "color": "Black",
+        "position_abstruct": [2, 0],
+        "position_physical": [210, 50]
+    },
+    {
+        "index": 12,
+        "name_CN": "象",
+        "name_EN": "Black_Elephant",
+        "classsify_id": 4,
+        "color": "Black",
+        "position_abstruct": [6, 0],
+        "position_physical": [530, 50]
+    },
+    {
+        "index": 13,
+        "name_CN": "士",
+        "name_EN": "Black_Advisor",
+        "classsify_id": 5,
+        "color": "Black",
+        "position_abstruct": [3, 0],
+        "position_physical": [290, 50]
+    },
+    {
+        "index": 14,
+        "name_CN": "士",
+        "name_EN": "Black_Advisor",
+        "classsify_id": 5,
+        "color": "Black",
+        "position_abstruct": [5, 0],
+        "position_physical": [450, 50]
+    },
+    {
+        "index": 15,
+        "name_CN": "将",
+        "name_EN": "Black_General",
+        "classsify_id": 6,
+        "color": "Black",
+        "position_abstruct": [4, 0],
+        "position_physical": [370, 50]
+    },
+    {
+        "index": 16,
+        "name_CN": "兵",
+        "name_EN": "Red_Pawn",
+        "classsify_id": 7,
+        "color": "Red",
+        "position_abstruct": [0, 6],
+        "position_physical": [50, 530]
+    },
+    {
+        "index": 17,
+        "name_CN": "兵",
+        "name_EN": "Red_Pawn",
+        "classsify_id": 7,
+        "color": "Red",
+        "position_abstruct": [2, 6],
+        "position_physical": [210, 530]
+    },
+    {
+        "index": 18,
+        "name_CN": "兵",
+        "name_EN": "Red_Pawn",
+        "classsify_id": 7,
+        "color": "Red",
+        "position_abstruct": [4, 6],
+        "position_physical": [370, 530]
+    },
+    {
+        "index": 19,
+        "name_CN": "兵",
+        "name_EN": "Red_Pawn",
+        "classsify_id": 7,
+        "color": "Red",
+        "position_abstruct": [6, 6],
+        "position_physical": [530, 530]
+    },
+    {
+        "index": 20,
+        "name_CN": "兵",
+        "name_EN": "Red_Pawn",
+        "classsify_id": 7,
+        "color": "Red",
+        "position_abstruct": [8, 6],
+        "position_physical": [690, 530]
+    },
+    {
+        "index": 21,
+        "name_CN": "炮",
+        "name_EN": "Red_Cannon",
+        "classsify_id": 8,
+        "color": "Red",
+        "position_abstruct": [1, 7],
+        "position_physical": [130, 610]
+    },
+    {
+        "index": 22,
+        "name_CN": "炮",
+        "name_EN": "Red_Cannon",
+        "classsify_id": 8,
+        "color": "Red",
+        "position_abstruct": [7, 7],
+        "position_physical": [610, 610]
+    },
+    {
+        "index": 23,
+        "name_CN": "车",
+        "name_EN": "Red_Rook",
+        "classsify_id": 9,
+        "color": "Red",
+        "position_abstruct": [0, 9],
+        "position_physical": [50, 770]
+    },
+    {
+        "index": 24,
+        "name_CN": "车",
+        "name_EN": "Red_Rook",
+        "classsify_id": 9,
+        "color": "Red",
+        "position_abstruct": [8, 9],
+        "position_physical": [690, 770]
+    },
+    {
+        "index": 25,
+        "name_CN": "马",
+        "name_EN": "Red_Horse",
+        "classsify_id": 10,
+        "color": "Red",
+        "position_abstruct": [1, 9],
+        "position_physical": [130, 770]
+    },
+    {
+        "index": 26,
+        "name_CN": "马",
+        "name_EN": "Red_Horse",
+        "classsify_id": 10,
+        "color": "Red",
+        "position_abstruct": [7, 9],
+        "position_physical": [610, 770]
+    },
+    {
+        "index": 27,
+        "name_CN": "相",
+        "name_EN": "Red_Elephant",
+        "classsify_id": 11,
+        "color": "Red",
+        "position_abstruct": [2, 9],
+        "position_physical": [210, 770]
+    },
+    {
+        "index": 28,
+        "name_CN": "相",
+        "name_EN": "Red_Elephant",
+        "classsify_id": 11,
+        "color": "Red",
+        "position_abstruct": [6, 9],
+        "position_physical": [530, 770]
+    },
+    {
+        "index": 29,
+        "name_CN": "仕",
+        "name_EN": "Red_Advisor",
+        "classsify_id": 12,
+        "color": "Red",
+        "position_abstruct": [3, 9],
+        "position_physical": [290, 770]
+    },
+    {
+        "index": 30,
+        "name_CN": "仕",
+        "name_EN": "Red_Advisor",
+        "classsify_id": 12,
+        "color": "Red",
+        "position_abstruct": [5, 9],
+        "position_physical": [450, 770]
+    },
+    {
+        "index": 31,
+        "name_CN": "帅",
+        "name_EN": "Red_King",
+        "classsify_id": 13,
+        "color": "Red",
+        "position_abstruct": [4, 9],
+        "position_physical": [370, 770]
+    }
+]
